@@ -3,5 +3,5 @@
 # The URL is downloaded once, cached forever, and then sourced
 import "https://git.io/fAWiz"
 
-add 20 22
-# 42
+add 3 3 3
+# 9
